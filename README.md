@@ -70,13 +70,13 @@ python main.py
 
 ## 📈 Sample Output
 
-Histogram of samples from a t-distribution (ν = 5) using a normal proposal:
+Histogram of samples from a t-distribution for various degrees of freedom (ν) using a normal proposal:
 
-![Histogram](Figures/QQPlot_MH_t2n.pdf)
+![Histogram](Figures/QQPlot_MH_n2t.png)
 
 QQ plot comparing target and sampled distributions:
 
-![QQ Plot](Figures/QQPlot_MH_t2n.pdf)
+![QQ Plot](Figures/QQPlot_MH_n2t.png)
 
 ---
 
