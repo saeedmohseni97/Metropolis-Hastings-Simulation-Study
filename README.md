@@ -72,7 +72,7 @@ python main.py
 
 Histogram of samples from a t-distribution for various degrees of freedom (ν) using a normal proposal:
 
-![Histogram](Figures/QQPlot_MH_n2t.png)
+![Histogram](Figures/Histogram_MH_n2t.png)
 
 QQ plot comparing target and sampled distributions:
 
