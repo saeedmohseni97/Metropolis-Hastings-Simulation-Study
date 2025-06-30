@@ -34,7 +34,7 @@ Understanding its behavior improves insight into convergence, posterior approxim
 ```
 ## 📁 Project Structure
 
-├── code/                  # Main codebase
+├── Code/                  # Main codebase
 │   ├── functions/         # All required helper functions
 │   ├── main.py            # Runs simulations and saves data to Results/
 │   └── plotter.py         # Generates plots from Results/ and saves them to Figures/
@@ -46,6 +46,8 @@ Understanding its behavior improves insight into convergence, posterior approxim
 ├── Report/                # Full simulation report
 │
 └── README.md              # Project documentation
+│
+└── requirements.txt       # List of required Python packages 
 ```
 
 ---
