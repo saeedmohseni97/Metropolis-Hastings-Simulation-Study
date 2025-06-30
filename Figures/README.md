@@ -1,1 +1,0 @@
-# Metropolis_Hastings_algorithm_STAT_Project
