@@ -34,7 +34,6 @@ Understanding its behavior improves insight into convergence, posterior approxim
 ```
 ## 📁 Project Structure
 
-```
 ├── code/                  # Main codebase
 │   ├── functions/         # All required helper functions
 │   ├── main.py            # Runs simulations and saves data to Results/
