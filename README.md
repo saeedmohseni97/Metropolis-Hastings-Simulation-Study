@@ -72,7 +72,7 @@ python main.py
 
 Histogram of samples from a t-distribution (ν = 5) using a normal proposal:
 
-![Histogram](Figures/QQPlot_MH_n2t.pdf)
+![Histogram](Figures/QQPlot_MH_t2n.pdf)
 
 QQ plot comparing target and sampled distributions:
 
@@ -84,7 +84,7 @@ QQ plot comparing target and sampled distributions:
 
 The full project report explains the setup, methodology, analysis, and conclusions. It includes dozens of figures demonstrating convergence behavior.
 
-📎 [Download the report (PDF)](.Report/Report.pdf)
+📎 [Download the report (PDF)](Report/Report.pdf)
 
 ---
 
