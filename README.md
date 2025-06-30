@@ -57,7 +57,7 @@ Understanding its behavior improves insight into convergence, posterior approxim
 pip install -r requirements.txt
 ```
 
-2. Run a simulation (example):
+2. Run a simulation:
 ```bash
 python main.py
 ```
